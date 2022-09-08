@@ -32,10 +32,11 @@ body {
 }
 
 
-/* HEADINGS */
+/* FOOTER */
 
-.footer--after {
-    font-size: 12px;
+.footer--copywright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
     background-color: transparent;
-    color: white;
     }
