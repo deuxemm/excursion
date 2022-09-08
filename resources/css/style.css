@@ -30,3 +30,12 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+
+/* HEADINGS */
+
+.footer--after {
+    font-size: 12px;
+    background-color: transparent;
+    color: white;
+    }
